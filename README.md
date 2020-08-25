@@ -3,6 +3,8 @@
 Virtual File System ( VFS ) is an emulation of file system that provides functionalities to the user which are similar to UNIX based file system.
 In this project we implement all necessary data structures of file subsystems such as Inode , Incore Inode Table , File Table , User File Descriptor Table , etc.
 
+This is a windows based project in which I have implemented virtual File System (VFS).Virtual File System is an abstract layer on top of a concrete file system . Its main purpose is allow client applications to access different types of concrete file systems in a uniform way. 
+
 Technologies - C++
 
 Objectives accomplished during the course of this project :
